@@ -1,2 +1,0 @@
-# Presidents.py
-Homework
