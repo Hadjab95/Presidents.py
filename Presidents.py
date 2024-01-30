@@ -1,5 +1,5 @@
 presidents = [
-    ("Gorge Washington", 1989),
+    ("George Washington", 1989),
     ("John Adams", 1797),
     ("Thomas Jefferson",1801),
     ("James Madison", 1809)
